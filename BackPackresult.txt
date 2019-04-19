@@ -1,0 +1,305 @@
+BackPackTest
+
+
+======================================== Generating Original Test Results ========================================
+{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+
+
+======================================== Executing Mutants ========================================
+test report: {testBackPack=}
+mutant report: {}
+
+
+======================================== Executing Mutants ========================================
+  AOIS_1{testBackPack=testBackPack: 20; 3}
+  AOIS_10{testBackPack=testBackPack: 20; -1}
+  AOIS_11{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_12{testBackPack=testBackPack: 20; -1}
+  AOIS_13{testBackPack=testBackPack: 20; 4}
+  AOIS_14{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_15{testBackPack=testBackPack: 20; 4}
+  AOIS_16{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_17{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_18{testBackPack=testBackPack: 20; -1}
+  AOIS_19{testBackPack=testBackPack: 20; 11}
+  AOIS_2{testBackPack=testBackPack: 20; array lengths differed, expected.length=10 actual.length=11}
+  AOIS_20{testBackPack=testBackPack: 20; -1}
+  AOIS_21{testBackPack=testBackPack: 20; 11}
+  AOIS_22{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_23{testBackPack=testBackPack: 20; 11}
+  AOIS_24{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_25{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_26{testBackPack=testBackPack: 20; -1}
+  AOIS_27{testBackPack=testBackPack: 20; 3}
+  AOIS_28{testBackPack=testBackPack: 20; -1}
+  AOIS_29{testBackPack=testBackPack: 20; 3}
+  AOIS_3{testBackPack=testBackPack: 20; 4}
+  AOIS_30{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_31{testBackPack=testBackPack: 20; 3}
+  AOIS_32{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_33{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_34 time_out: more than 3000 seconds
+  AOIS_35{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_36 time_out: more than 3000 seconds
+  AOIS_37{testBackPack=testBackPack: 20; 11}
+  AOIS_38{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_39{testBackPack=testBackPack: 20; 11}
+  AOIS_4{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_40{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_41{testBackPack=testBackPack: 20; 3}
+  AOIS_42{testBackPack=testBackPack: 20; -1}
+  AOIS_43{testBackPack=testBackPack: 20; 4}
+  AOIS_44{testBackPack=testBackPack: 20; -1}
+  AOIS_45{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_46 time_out: more than 3000 seconds
+  AOIS_47{testBackPack=testBackPack: 20; -1}
+  AOIS_48{testBackPack=testBackPack: 20; -1}
+  AOIS_49{testBackPack=testBackPack: 20; -1}
+  AOIS_5{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_50{testBackPack=testBackPack: 20; -1}
+  AOIS_51{testBackPack=testBackPack: 20; 11}
+  AOIS_52{testBackPack=testBackPack: 20; -1}
+  AOIS_53{testBackPack=testBackPack: 20; -1}
+  AOIS_54{testBackPack=testBackPack: 20; -1}
+  AOIS_55{testBackPack=testBackPack: 20; -1}
+  AOIS_56{testBackPack=testBackPack: 20; -1}
+  AOIS_57{testBackPack=testBackPack: 20; 11}
+  AOIS_58{testBackPack=testBackPack: 20; -1}
+  AOIS_59{testBackPack=testBackPack: 20; 11}
+  AOIS_6{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_60{testBackPack=testBackPack: 20; -1}
+  AOIS_61{testBackPack=testBackPack: 20; -1}
+  AOIS_62{testBackPack=testBackPack: 20; -1}
+  AOIS_63{testBackPack=testBackPack: 20; -1}
+  AOIS_64{testBackPack=testBackPack: 20; -1}
+  AOIS_65{testBackPack=testBackPack: 20; -1}
+  AOIS_66{testBackPack=testBackPack: 20; -1}
+  AOIS_67{testBackPack=testBackPack: 20; -1}
+  AOIS_68{testBackPack=testBackPack: 20; -1}
+  AOIS_69{testBackPack=testBackPack: 20; -1}
+  AOIS_7{testBackPack=testBackPack: 20; 11}
+  AOIS_70{testBackPack=testBackPack: 20; -1}
+  AOIS_71{testBackPack=testBackPack: 20; -1}
+  AOIS_72{testBackPack=testBackPack: 20; -1}
+  AOIS_73{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_74{testBackPack=testBackPack: 20; -1}
+  AOIS_75{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_76 time_out: more than 3000 seconds
+  AOIS_77{testBackPack=testBackPack: 20; -1}
+  AOIS_78{testBackPack=testBackPack: 20; -1}
+  AOIS_79{testBackPack=testBackPack: 20; 3}
+  AOIS_8{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_80{testBackPack=testBackPack: 20; -1}
+  AOIS_81{testBackPack=testBackPack: 20; 3}
+  AOIS_82{testBackPack=testBackPack: 20; -1}
+  AOIS_83{testBackPack=testBackPack: 20; 3}
+  AOIS_84{testBackPack=testBackPack: 20; -1}
+  AOIS_85{testBackPack=testBackPack: 20; 3}
+  AOIS_86 time_out: more than 3000 seconds
+  AOIS_87{testBackPack=testBackPack: 20; 3}
+  AOIS_88 time_out: more than 3000 seconds
+  AOIS_89{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_9{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_90 time_out: more than 3000 seconds
+  AOIS_91{testBackPack=testBackPack: 20; 3}
+  AOIS_92{testBackPack=testBackPack: 20; -1}
+  AOIS_93{testBackPack=testBackPack: 20; 3}
+  AOIS_94{testBackPack=testBackPack: 20; -1}
+  AOIS_95{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AOIS_96 time_out: more than 3000 seconds
+  AOIU_1{testBackPack=testBackPack: 20; fail}
+  AOIU_2{testBackPack=testBackPack: 20; fail}
+  AOIU_3{testBackPack=testBackPack: 20; -2}
+  AOIU_4{testBackPack=testBackPack: 20; -6}
+  AOIU_5{testBackPack=testBackPack: 20; -4}
+  AOIU_6{testBackPack=testBackPack: 20; -7}
+  AOIU_7{testBackPack=testBackPack: 20; -2}
+  AOIU_8{testBackPack=testBackPack: 20; -1}
+  AORB_1{testBackPack=testBackPack: 20; 3}
+  AORB_10{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_11{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_12{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_13{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_14{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_15{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_16{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_17{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_18{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_19{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_2{testBackPack=testBackPack: 20; 3}
+  AORB_20{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_21{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_22{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_23{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_24{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_25{testBackPack=testBackPack: 20; 3}
+  AORB_26{testBackPack=testBackPack: 20; 3}
+  AORB_27{testBackPack=testBackPack: 20; -1}
+  AORB_28{testBackPack=testBackPack: 20; 3}
+  AORB_29{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_3{testBackPack=testBackPack: 20; 0}
+  AORB_30{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_31{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_32{testBackPack=testBackPack: 20; 4}
+  AORB_33{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_34{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_35{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_36{testBackPack=testBackPack: 20; 4}
+  AORB_37{testBackPack=testBackPack: 20; -1}
+  AORB_38{testBackPack=testBackPack: 20; -1}
+  AORB_39{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_4{testBackPack=testBackPack: 20; 2}
+  AORB_40{testBackPack=testBackPack: 20; -2}
+  AORB_41{testBackPack=testBackPack: 20; 12}
+  AORB_42{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_43{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_44{testBackPack=testBackPack: 20; 11}
+  AORB_45{testBackPack=testBackPack: 20; 3}
+  AORB_46{testBackPack=testBackPack: 20; 3}
+  AORB_47{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_48{testBackPack=testBackPack: 20; 3}
+  AORB_49{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_5{testBackPack=testBackPack: 20; 10}
+  AORB_50{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_51{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_52{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_53{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_54{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_55{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_56{testBackPack=testBackPack: 20; 4}
+  AORB_57{testBackPack=testBackPack: 20; -1}
+  AORB_58{testBackPack=testBackPack: 20; -1}
+  AORB_59{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_6{testBackPack=testBackPack: 20; 10}
+  AORB_60{testBackPack=testBackPack: 20; -2}
+  AORB_61{testBackPack=testBackPack: 20; 12}
+  AORB_62{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_63{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_64{testBackPack=testBackPack: 20; 11}
+  AORB_65{testBackPack=testBackPack: 20; 3}
+  AORB_66{testBackPack=testBackPack: 20; 3}
+  AORB_67{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_68{testBackPack=testBackPack: 20; 3}
+  AORB_69{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_7{testBackPack=testBackPack: 20; 0}
+  AORB_70{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_71{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_72{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_73{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_74{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_75{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_76{testBackPack=testBackPack: 20; 4}
+  AORB_77{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_78{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_79{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORB_8{testBackPack=testBackPack: 20; 9}
+  AORB_80{testBackPack=testBackPack: 20; 4}
+  AORB_9{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  AORS_1{testBackPack=testBackPack: 20; -1}
+  AORS_2{testBackPack=testBackPack: 20; -1}
+  AORS_3{testBackPack=testBackPack: 20; -1}
+  AORS_4{testBackPack=testBackPack: 20; -1}
+  CDL_1{testBackPack=testBackPack: 20; 3}
+  CDL_10{testBackPack=testBackPack: 20; -1}
+  CDL_11{testBackPack=testBackPack: 20; 3}
+  CDL_12{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  CDL_13{testBackPack=testBackPack: 20; -1}
+  CDL_14{testBackPack=testBackPack: 20; 3}
+  CDL_15{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  CDL_16{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  CDL_2{testBackPack=testBackPack: 20; 10}
+  CDL_3{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  CDL_4{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  CDL_5{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  CDL_6{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  CDL_7{testBackPack=testBackPack: 20; 3}
+  CDL_8{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  CDL_9{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  COI_1{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  COI_2{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  COI_3{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  COI_4{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  COI_5{testBackPack=testBackPack: 20; -2}
+  COI_6{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  LOI_1{testBackPack=testBackPack: 20; fail}
+  LOI_10{testBackPack=testBackPack: 20; -1}
+  LOI_11{testBackPack=testBackPack: 20; 3}
+  LOI_12{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  LOI_14{testBackPack=testBackPack: 20; 11}
+  LOI_15{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  LOI_17{testBackPack=testBackPack: 20; -3}
+  LOI_18{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  LOI_19{testBackPack=testBackPack: 20; -3}
+  LOI_2{testBackPack=testBackPack: 20; fail}
+  LOI_20{testBackPack=testBackPack: 20; -4}
+  LOI_21{testBackPack=testBackPack: 20; -3}
+  LOI_22{testBackPack=testBackPack: 20; -7}
+  LOI_23{testBackPack=testBackPack: 20; -3}
+  LOI_24{testBackPack=testBackPack: 20; -3}
+  LOI_25{testBackPack=testBackPack: 20; -2}
+  LOI_26{testBackPack=testBackPack: 20; -4}
+  LOI_27{testBackPack=testBackPack: 20; -3}
+  LOI_28{testBackPack=testBackPack: 20; -7}
+  LOI_29{testBackPack=testBackPack: 20; -3}
+  LOI_3{testBackPack=testBackPack: 20; 4}
+  LOI_30{testBackPack=testBackPack: 20; -3}
+  LOI_31{testBackPack=testBackPack: 20; -4}
+  LOI_32{testBackPack=testBackPack: 20; -8}
+  LOI_33{testBackPack=testBackPack: 20; -5}
+  LOI_34{testBackPack=testBackPack: 20; -8}
+  LOI_35{testBackPack=testBackPack: 20; -2}
+  LOI_36{testBackPack=testBackPack: 20; -2}
+  LOI_37{testBackPack=testBackPack: 20; -3}
+  LOI_38{testBackPack=testBackPack: 20; -2}
+  LOI_4{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  LOI_6{testBackPack=testBackPack: 20; -1}
+  LOI_7{testBackPack=testBackPack: 20; 11}
+  LOI_8{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_1{testBackPack=testBackPack: 20; 3}
+  ODL_10{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_11{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_15{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_16{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_2{testBackPack=testBackPack: 20; 1}
+  ODL_20{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_21{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_25{testBackPack=testBackPack: 20; 3}
+  ODL_26{testBackPack=testBackPack: 20; -1}
+  ODL_29{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_3{testBackPack=testBackPack: 20; 10}
+  ODL_30{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_31{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_32{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_33{testBackPack=testBackPack: 20; -1}
+  ODL_34{testBackPack=testBackPack: 20; -1}
+  ODL_35{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_36{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_37{testBackPack=testBackPack: 20; 3}
+  ODL_38{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_39{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_4{testBackPack=testBackPack: 20; 1}
+  ODL_40{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_43{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_44{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_45{testBackPack=testBackPack: 20; -1}
+  ODL_46{testBackPack=testBackPack: 20; -1}
+  ODL_47{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_48{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_49{testBackPack=testBackPack: 20; 3}
+  ODL_5{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_50{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_51{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_52{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_53{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_54{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_55{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_56{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ODL_6{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ROR_1{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ROR_10{testBackPack=testBackPack: 20; 11}
+  ROR_11{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ROR_12{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ROR_15{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ROR_16{testBackPack=testBackPack: 20; array lengths differed, expected.length=3 actual.length=4}
+  ROR_17{testBackPack=testBackPack: 20; 3}
+  ROR_18{testBackPack=testBackPack: 20; array lengths differed, exp                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
